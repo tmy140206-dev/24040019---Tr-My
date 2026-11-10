@@ -1,0 +1,7 @@
+- Tên sự kiện: Chương trình âm nhac "Ba Ơi!"
+- Đối tượng: Sinh viên đại học
+- Ngày: 04 tháng 12 năm 2026
+- Thời gian: 18:30 - 19h30
+- Địa điểm: Hội trường 5B trường Đại học Gia Định
+- Chi phí: Miễn phí
+- Hạn đăng ký: 23 tháng 11
